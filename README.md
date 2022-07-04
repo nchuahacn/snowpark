@@ -17,3 +17,4 @@ To get started, you'll want to:
 
 That's it - you're ready to go! I haven't uploaded the notebook yet - there will be time at the start of the workshop to download it. 
 
+*Note: there are no OS requirements for this workshop - I test on Mac, but if Anaconda works for you, this should work for you.*
