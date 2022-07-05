@@ -1,0 +1,17 @@
+name: snowflake-vhols-python
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - snowflake-snowpark-python
+  - scikit-learn
+  - jupyter
+  - munch
+  - dill
+  - matplotlib
+  - pip
+  - pip:
+    - streamlit
+    - meteostat
+    - sodapy
+
