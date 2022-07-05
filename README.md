@@ -11,10 +11,13 @@ To get started, you'll want to:
 
 4. Download this repository, either by using Github's zip download option or by cloning it using your local git. If you download the zip, make sure to unzip it!
 
-4. Set up a conda environment using the requirements.yml file in this repository. You can do this by running `conda env create -f requirements.yml` on the machine you install Anaconda on, from the directory you have unzipped/cloned this repository to. Note that we use the default channels in this lab; this is not mandatory but I have not tested by changing the defaults to Forge or similar. 
+4. Set up a conda environment using the requirements.yml file in this repository. You can do this by running `conda env create -f requirements.yml` on the machine you install Anaconda on, from the directory you have unzipped/cloned this repository to*. Note that we use the default channels in this lab; this is not mandatory but I have not tested by changing the defaults to Forge or similar. 
 
 5. Download and fill in the `secrets_FILL_ME_IN.json` file in this repository, and rename it to `secrets.json`.
 
 That's it - you're ready to go! I haven't uploaded the notebook yet - there will be time at the start of the workshop to download it. 
 
 *Note: there are no OS requirements for this workshop - I test on Mac, but if Anaconda works for you, this should work for you.*
+
+
+* If this fails, try with requirements3.yml
