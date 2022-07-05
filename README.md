@@ -20,4 +20,4 @@ That's it - you're ready to go! I haven't uploaded the notebook yet - there will
 *Note: there are no OS requirements for this workshop - I test on Mac, but if Anaconda works for you, this should work for you.*
 
 
-* If this fails, try with requirements3.yml
+\* If this fails, try with requirements3.yml
